@@ -11,3 +11,4 @@ ZCZC W01 200 L02 CLASSROOM meetings related
 ZCZC W01 15 L03 GitHub related
 ZCZC W01 75 L05 Quiz related including studying
 ZCZC W01 150 L09 Assignment in General
+ZCZC W00 100 L80 Waching: Movie, YouTube, TV, Netflix, etc.
