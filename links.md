@@ -12,6 +12,7 @@ In this video tutorial, you will learn about stuff like Linux administration, ho
 ## 2. [About Debian](https://www.debian.org/intro/about)<br>
 In this website you will learn about debian operating system in general
 
+
 # Week 2
 ## 1. [Learn C](https://www.w3schools.com/c/c_intro.php)<br>
 Learn the basics of C, helped me when I was trying to do Quiz 2.
@@ -21,6 +22,7 @@ In this website you will learn about how public key and private key which is use
 
 ## 3. [What is GnuPG](https://medium.com/kode-dan-kodean/belajar-memakai-gnu-privacy-guard-gnupg-gpg-3944e19dba91)<br>
 In this website you will learn about what is GNuPG and how does it work, which is useful for this weeks assignment
+
 
 # Week 3
 ## 1. [How File System Work in Linux](https://opensource.com/article/19/3/virtual-filesystems-linux)<br>
