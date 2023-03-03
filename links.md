@@ -33,7 +33,7 @@ In this website you will learn about the basics of file system in linux.
 In this website you will learn about the hierarchy structure of linux, which starts from the root to multiple branches.
 ## 3. [How to Delete GPG Keys in Linux](https://linuxhint.com/delete-gpg-keys-linux/)<br>
 
-In this website you will learn how to delete gpg keys, this doesn't correlate with the materials for this week but it helped me out when i used the wrong key to encrypt some files, and needed to fix it by deleting the wrong keys.
+In this website you will learn how to delete gpg keys, this doesn't correlate with the materials for this week but it helped me out when i used the wrong key to encrypt some files, and needed to fix it by deleting the wrong key.
 ## 4. [Linux Directory Video](https://www.youtube.com/watch?v=42iQKuQodW4)<br>
 
 In this video you will learn more interactively about how files and devices are arranged in FHS(Filesystem Hierarchy Standard) which is used by linux
