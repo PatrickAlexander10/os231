@@ -15,10 +15,6 @@
 # ATTN:
 # You new to set "REC2" with your own Public-Key Identity!
 # Check it out with "gpg --list-key"
-
-# ATTN:
-# You new to set "REC2" with your own Public-Key Identity!
-# Check it out with "gpg --list-key"
 # ####################### Replace REC2 ####
 REC2="5F94841152E056BB"
 # ####################### ####### #### ####
@@ -127,4 +123,3 @@ echo "==== ==== ==== ==== ==== ==== ==== ==== ==== ==== ==== ===="
 echo ""
 
 exit 0
-
