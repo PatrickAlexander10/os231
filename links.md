@@ -36,3 +36,13 @@ In this website you will learn how to delete gpg keys, this doesn't correlate wi
 
 ## 4. [Linux Directory Video](https://www.youtube.com/watch?v=42iQKuQodW4)<br>
 In this video you will learn more interactively about how files and devices are arranged in FHS(Filesystem Hierarchy Standard) which is used by linux
+
+# Week 4
+## 1. [Basics About How Pointers Work](https://www.youtube.com/watch?v=2ybLD6_2gKM)<br>
+In this video you will learn about the basics and simple way on how pointers work.
+
+## 2. [Pointers in C](https://www.youtube.com/watch?v=zuegQmMdy8M)<br>
+In this video you will learn about how pointers work in detail, including their types, how pointers work in C langguage specifically, how it works with array, etc.
+
+## 3. [How Makefiles Work](https://makefiletutorial.com/)<br>
+In this website you will learn about what makefiles is and how does it work.
