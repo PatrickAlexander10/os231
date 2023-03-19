@@ -30,3 +30,11 @@ ZCZC W04 60 L05 Quiz related including studying
 ZCZC W04 100 L09 Assignment in General
 ZCZC W04 35 L32 YouTube: watching OS related topics on Pointers
 ZCZC W04 45 L83 Playing with Pets: feeding and playing
+ZCZC W05 15 L01 SCELE related
+ZCZC W05 100 L02 CLASSROOM meetings related
+ZCZC W05 15 L03 GitHub related
+ZCZC W05 50 L05 Quiz related including studying
+ZCZC W05 150 L09 Assignment in General
+ZCZC W05 200 L70 Studying for other courses
+ZCZC W05 150 L80 Waching: YouTube and Netflix
+ZCZC W05 45 L83 Playing with Pets: feeding and playing

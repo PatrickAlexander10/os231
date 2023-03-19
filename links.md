@@ -46,3 +46,13 @@ In this video you will learn about how pointers work in detail, including their 
 
 ## 3. [How Makefiles Work](https://makefiletutorial.com/)<br>
 In this website you will learn about what makefiles is and how does it work.
+
+# Week 5
+## 1. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+In this website, I learned about various things related to virtual memory, which includes paging, swapping, and thrashing.
+
+## 2. [Paging](https://0xax.gitbooks.io/linux-insides/content/Theory/linux-theory-1.html)<br>
+In this this website, I learned about paging structures and paging in linux, this website has a detailed explanation.
+
+## 3. [Video About Virtual Memory](https://www.youtube.com/watch?v=5lFnKYCZT5o)<br>
+In this video, a brief explaination about virtual memory was given, the explanation was interesting and the graphic helped alot.
