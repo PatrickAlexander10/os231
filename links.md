@@ -56,3 +56,13 @@ In this this website, I learned about paging structures and paging in linux, thi
 
 ## 3. [Video About Virtual Memory](https://www.youtube.com/watch?v=5lFnKYCZT5o)<br>
 In this video, a brief explaination about virtual memory was given, the explanation was interesting and the graphic helped alot.
+
+# Week 6
+## 1. [Process Creating and Termination](https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_process_creation_termination.htm)<br>
+In this article, I learned about the creation and termination process using fork and exit system calls.
+
+## 2. [Fork in C Programming Languange](https://www.section.io/engineering-education/fork-in-c-programming-language/)<br>
+In this this website, I learned about what a fork function is and how to implement it in C programming languange.
+
+## 3. [Processes and Threads](https://www.youtube.com/watch?v=OrM7nZcxXZU)<br>
+In this video, a brief explaination about process management is given, I learned about Process, Threads, and their differences.
