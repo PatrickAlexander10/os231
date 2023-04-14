@@ -1,4 +1,4 @@
-# Log Format
+	# Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 10 L01 SCELE related
@@ -46,3 +46,11 @@ ZCZC W06 120 L09 Assignment in General
 ZCZC W06 200 L70 Studying for other courses
 ZCZC W06 120 L80 Waching: YouTube and Netflix
 ZCZC W06 45 L83 Playing with Pets: feeding and playing
+ZCZC W07 15 L01 SCELE related
+ZCZC W07 200 L02 CLASSROOM meetings related
+ZCZC W07 10 L03 GitHub related
+ZCZC W07 100 L05 Quiz related including studying
+ZCZC W07 120 L09 Assignment in General
+ZCZC W07 210 L70 Studying for other courses
+ZCZC W07 100 L80 Waching: YouTube and Netflix
+ZCZC W07 30 L83 Playing with Pets: feeding and playing

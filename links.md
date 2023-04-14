@@ -66,3 +66,13 @@ In this this website, I learned about what a fork function is and how to impleme
 
 ## 3. [Processes and Threads](https://www.youtube.com/watch?v=OrM7nZcxXZU)<br>
 In this video, a brief explaination about process management is given, I learned about Process, Threads, and their differences.
+
+# Week 7
+## 1. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
+In this website, I learned about process synchronization.
+
+## 2. [Process Synchronization Video](https://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2)<b>
+In this this video, I learned about process synchronization in more detail. This video is from Neso Academy and their explaination on the basics of the subject was clear and easy to understand.
+
+## 3. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
+In this website, I learned about Deadlock in Operating Systems, there is also a video provided to give a basic explanation.
