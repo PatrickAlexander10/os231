@@ -68,11 +68,21 @@ In this this website, I learned about what a fork function is and how to impleme
 In this video, a brief explaination about process management is given, I learned about Process, Threads, and their differences.
 
 # Week 7
-## 1. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
+## 1. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
 In this website, I learned about process synchronization.
 
-## 2. [Process Synchronization Video](https://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2)<b>
+## 2. [Process Synchronization Video](https://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2)
 In this this video, I learned about process synchronization in more detail. This video is from Neso Academy and their explaination on the basics of the subject was clear and easy to understand.
 
-## 3. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
+## 3. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
 In this website, I learned about Deadlock in Operating Systems, there is also a video provided to give a basic explanation.
+
+# Week 8
+## 1. [Linux From Scratch Version 11.3](https://www.linuxfromscratch.org/lfs/view/11.3/)
+This is the official linux from scratch guide, which is essential for doing week 8 assignment.
+
+## 2. [Basics of CPU Scheduling](https://www.youtube.com/watch?v=Jkmy2YLUbUY)
+In this this video, I learned about the basics of scheduling, there are time stamps which details the key concepts of the subject in the video, which made it easy for me to go back to stuff that i need to review.
+
+## 3. [Kernotex LFS 11.3 playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsB4gJ2dPySvs2eK_roFwKeb)
+This playlist guided me through doing the Week 8 assignment, it is really helpful.

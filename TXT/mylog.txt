@@ -54,3 +54,11 @@ ZCZC W07 120 L09 Assignment in General
 ZCZC W07 210 L70 Studying for other courses
 ZCZC W07 100 L80 Waching: YouTube and Netflix
 ZCZC W07 30 L83 Playing with Pets: feeding and playing
+ZCZC W08 20 L01 SCELE related
+ZCZC W08 200 L02 CLASSROOM meetings related
+ZCZC W08 10 L03 GitHub related
+ZCZC W08 100 L05 Quiz related including studying
+ZCZC W08 200 L09 Assignment in General
+ZCZC W08 300 L70 Studying for other courses
+ZCZC W08 120 L80 Waching: YouTube and Netflix
+ZCZC W08 60 L83 Playing with Pets: feeding and playing
