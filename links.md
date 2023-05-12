@@ -86,3 +86,16 @@ In this this video, I learned about the basics of scheduling, there are time sta
 
 ## 3. [Kernotex LFS 11.3 playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsB4gJ2dPySvs2eK_roFwKeb)
 This playlist guided me through doing the Week 8 assignment, it is really helpful.
+
+# Week 9
+## 1. [Linux From Scratch Version 11.3](https://www.linuxfromscratch.org/lfs/view/11.3/)
+This is the official linux from scratch guide, which is essential for doing week 9 assignment.
+
+## 2. [RAID](https://www.javatpoint.com/what-is-raid)
+In this this website, I learned about RAID (Redundant Array of Independent Disks) technique of storing data, which includes levels of RAID and implementation of RAID.
+
+## 3. [Kernotex LFS 11.3 playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsB4gJ2dPySvs2eK_roFwKeb)
+This playlist guided me through doing the Week 9 assignment, it is really helpful.
+
+## 4. [BIOS](https://www.youtube.com/watch?v=ncUmWthHrU0)
+This video taught me about BIOS which is a firmware used to perform hardware initialization during the booting process, and to provide runtime services for operating systems and programs.
